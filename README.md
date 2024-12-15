@@ -1,1 +1,1 @@
-# Personal-Notes
+This project involves creating a Git-based system to manage and version control personal or group notes/documents. It aims to demonstrate the core functionalities of Git, showcasing its practical application in organizing and collaborating on everyday tasks like maintaining notes.
